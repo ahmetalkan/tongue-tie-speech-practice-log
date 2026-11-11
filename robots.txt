@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tongue-tie-speech-practice-log.onrender.com/sitemap.xml
